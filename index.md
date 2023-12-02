@@ -1,3 +1,0 @@
-# Dorkbot Bristol
-
-Hello!
